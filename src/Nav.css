@@ -1,0 +1,22 @@
+.section-menu {
+    padding: 20px 10px 20px 10px;
+    text-align: right; 
+}
+.navlink 
+{
+    text-decoration: none;
+    margin: 0 10px 0 10px;
+    font-weight:bold;
+    color: rgb(100, 100, 100);
+}
+.black-active:focus {
+    color: black;
+    font-weight:bold;
+}
+.red-active:focus {
+    color: red;
+    font-weight: bold;
+}
+.page-content {
+    text-align: center;
+}

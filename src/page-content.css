@@ -1,0 +1,11 @@
+.box-content
+{
+    background-color: rgb(200, 200, 200);
+    width: 50%;
+    height: auto;
+    margin: auto;
+    border-radius: 20px;
+}
+.box-content h2 {
+    padding: 20px;
+}
